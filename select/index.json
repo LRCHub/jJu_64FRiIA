@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Summertime Polaroid",
+  "base_artist": "kahoca",
+  "createdAt": "2025-12-10T12:10:37.035376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summertime Polaroid feat. Wuthering Waves",
+      "artist": "kahoca",
+      "has_synced": false,
+      "path": "select/01_Summertime_Polaroid_feat._Wuthering_Waves_kahoca.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summertime Polaroid feat. Wuthering Waves",
+      "artist": "kahoca",
+      "has_synced": false,
+      "path": "select/pl_01_Summertime_Polaroid_feat._Wuthering_Waves_kahoca.txt"
+    }
+  ]
+}
