@@ -1,0 +1,48 @@
+# kahoca – Summertime Polaroid
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I see that twilight burning, colors on the rolling tide
+Shining, feels like I'm on cloud nine
+Got me feeling so free, taking flight beyond the sky
+Reach out and feel the wind, dancing
+Can you hear them calling out of summer?
+The stars are guiding the beat
+Gonna catch all the stars as they're falling
+You and me dive into the new world
+Tell me, how you wanna do in the summertime?
+Hearts are beating now with you right by my side
+We keep on dancing to the waves of time
+Don't wanna miss this
+Can't let this feeling, so magical
+Oh-oh, oh-oh-oh, oh-oh-oh
+La-la-la-la-la, la-la
+Oh-oh, oh-oh-oh, oh-oh-oh
+I see my glass singing, floating on the time we share
+Glowing under the golden light
+Wish we could just stay here right in this moment forever
+Reach out and feel the wind, dancing
+Can you hear them calling out of summer?
+The stars are guiding the beat
+Gonna catch all the stars as they're falling
+You and me dive into the new world
+Tell me, what do you wanna feel in the summertime?
+Hearts are beating now with you right by my side
+Cruising around this city, feel the beat
+Endless summer, that's how we feel it
+It's all here
+I dreamed of something like this
+The kind of day I saw in my head
+Feet off the ground, it's simple
+Time flies to catch the feelings
+You and me dive into the new world
+Tell me, how you wanna do in the summertime?
+Hearts are beating now with you right by my side
+We keep on dancing to the waves of time
+Don't wanna miss this
+Can't let this feeling, so magical
+Oh-oh, oh-oh-oh, oh-oh-oh
+La-la-la-la-la, la-la
+Oh-oh, oh-oh-oh, oh-oh-oh
+```
